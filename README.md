@@ -1,7 +1,7 @@
 # web_xml
 ## Laba #6-7
 
-The task was to build the web presion of the XML app on Servlets. 
+The task was to build the web version of the XML app on Servlets. 
 
 Take a look on the results:
 
